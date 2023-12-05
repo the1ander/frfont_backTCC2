@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 20px;
+    background: #239621; /* Alterei a cor de fundo para verde escuro */
+}
+
+.fungo-container {
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid black;
+    text-align: left;
+    background-color: white;
+}
+
+.fungo-img {
+    margin: 0 auto;
+    display: block;
+    width: 100%; /* Alterei para ocupar a largura total do container */
+}
+
+.fungo-info {
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #239621;
+    display: block;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+    font-size: 50px;
+    font-family: 'Vina Sans', sans-serif;
+}
+
+h2, h3, h4, p {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px;
+}
+
+li {
+    background: #F1F68D;
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
